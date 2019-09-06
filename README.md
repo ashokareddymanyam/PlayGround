@@ -1,2 +1,2 @@
 # PlayGround
-play with tech
+play with trending technogies in the world
